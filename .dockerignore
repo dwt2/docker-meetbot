@@ -1,7 +1,0 @@
-.circleci
-.dockerignore
-.vscode
-docker-compose*
-Dockerfile
-LICENSE
-README*
